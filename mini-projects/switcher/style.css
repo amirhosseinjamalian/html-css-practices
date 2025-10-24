@@ -1,0 +1,83 @@
+.switch {
+  display: block;
+  width: 147px;
+  height: 58px;
+  position: relative;
+  margin: 50px auto;
+}
+
+input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.slider {
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 55px;
+  -webkit-border-radius: 55px;
+  -moz-border-radius: 55px;
+  -ms-border-radius: 55px;
+  -o-border-radius: 55px;
+  background-color: #ccc;
+  transition: background-color 0.5s;
+  -webkit-transition: background-color 0.5s;
+  -moz-transition: background-color 0.5s;
+  -ms-transition: background-color 0.5s;
+  -o-transition: background-color 0.5s;
+}
+
+.slider::before {
+  content: "";
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 10px;
+  top: 0px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  transition: transform 0.7s, background-color 0.7s;
+  -webkit-transition: transform 0.7s, background-color 0.7s;
+  -moz-transition: transform 0.7s, background-color 0.7s;
+  -ms-transition: transform 0.7s, background-color 0.7s;
+  -o-transition: transform 0.7s, background-color 0.7s;
+}
+
+.slider_in {
+  position: absolute;
+  left: 12px;
+  top: 17px;
+  width: 50px;
+  text-align: center;
+  transition: transform.7s, color.7s, font-weight 1.5s;
+  -webkit-transition: transform.7s, color.7s, font-weight 1.5s;
+  -moz-transition: transform.7s, color.7s, font-weight 1.5s;
+  -ms-transition: transform.7s, color.7s, font-weight 1.5s;
+  -o-transition: transform.7s, color.7s, font-weight 1.5s;
+}
+
+input[type="checkbox"]:checked + .slider {
+  background-color: #28a745;
+}
+
+input[type="checkbox"]:checked + .slider::before {
+  background-color: gold;
+  transform: translate(70px, 0);
+  -webkit-transform: translate(70px, 0);
+  -moz-transform: translate(70px, 0);
+  -ms-transform: translate(70px, 0);
+  -o-transform: translate(70px, 0);
+}
+
+input[type="checkbox"]:checked + .slider .slider_in {
+  color: red;
+  font-weight: bold;
+  transform: translate(70px, 0);
+  -webkit-transform: translate(70px, 0);
+  -moz-transform: translate(70px, 0);
+  -ms-transform: translate(70px, 0);
+  -o-transform: translate(70px, 0);
+}
