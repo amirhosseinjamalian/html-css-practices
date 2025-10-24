@@ -30,17 +30,13 @@ While building this project, I practiced:
 
 **Desktop View**
 
-![Desktop View](./desktop.png)
-
-**Mobile View**
-
-![Mobile View](./mobile.png)
+![Desktop View](./1.png)
 
 ---
 
 ## 🚀 Live Demo
 
-<a href="https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/sign-up/" target="_blank">View on GitHub Pages</a>
+[🔗View on GitHub Pages](https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/Create_Account_page_1/)
 
 ---
 
