@@ -23,9 +23,15 @@ Applying transitions for smooth effects
 
 Structuring simple UI components
 
-📸 Screenshot
+## 📸 Screenshots
 
-![Screenshot](screenshot.png)
+**Mode 1**
+
+![Mode 1](./Mode-1.png)
+
+**Mode 2**
+
+![Mode 2](./Mode-2.png)
 
 🚀 Live Demo
 
