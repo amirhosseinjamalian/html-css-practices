@@ -37,7 +37,7 @@ While building this project, I practiced:
 
 ## 🚀 Live Demo
 
-[https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/Login_page_1/](🔗 View on GitHub Pages)
+[🔗 View on GitHub Pages](https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/Login_page_1/)
 
 ---
 
