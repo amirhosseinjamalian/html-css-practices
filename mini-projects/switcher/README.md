@@ -35,6 +35,6 @@ Structuring simple UI components
 
 🚀 Live Demo
 
-<a href="https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/switcher/" target="_blank">View on GitHub Pages</a>
+[🔗 View on GitHub Pages](https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/switcher/)
 
 🧠 A small but useful project to practice light and dark mode switching with pure HTML and CSS.
