@@ -37,9 +37,13 @@ Input focus effects and hover transitions
 **Desktop View**
 
 ![Desktop View](photo_2025-06-13_23-04-12.jpg)
+---
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-🔗 View on GitHub Pages
+[🔗 View on GitHub Pages](https://amirhosseinjamalian.github.io/html-css-practices/mini-projects/Login_page_2/)
+
+---
+
 
 🧠 A compact project to practice creating responsive login forms with a modern and minimal design.
